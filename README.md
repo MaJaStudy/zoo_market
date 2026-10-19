@@ -67,6 +67,7 @@
 ## 5. Диаграмма вариантов использования (Use Case)
 
 ```mermaid
+%%{init: {"flowchart": {"diagramPadding": 80}}}%%
 flowchart LR
     %% Группируем пользователей слева
     subgraph Actors["Участники"]
